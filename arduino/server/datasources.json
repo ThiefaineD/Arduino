@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgres": {
+    "host": "reggaeshark.eu",
+    "port": 5432,
+    "url": "postgres://loopback:loopback@reggaeshark.eu:5432/arduino",
+    "database": "arduino",
+    "password": "loopback",
+    "name": "postgres",
+    "user": "loopback",
+    "connector": "postgresql"
+  }
+}
